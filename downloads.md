@@ -23,7 +23,7 @@ You can check out all of our versions [here][7]
 [2]:/versions/
 [3]:/img/apple-logo.gif
 {: width="120px"}
-[4]:/versions/SantosTrafficAnalysis.dmg
+[4]: https://sourceforge.net/projects/kross-distro/files/SantosTrafficAnalysis.dmg/download
 [5]:/img/linux.png
 {: width="120px"}
 [6]:/versions/
