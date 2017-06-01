@@ -31,9 +31,9 @@ One of our immediate reactions to the software from the 2015-2016 SCOPE team was
 
 As our project comes to a close, we have looked for interested people who want to continue the technical development of our software. Code for Boston is a group of civic-minded developers who hack on open source projects in their free time. We have approached them about adding the Santos Traffic Platform to their list of projects and the group is interested. If they decide to adopt this project, development and refinement can continue to occur, even though the Olin SCOPE program will no longer be working with the software.
 
-### Creating Kross, a Civic-Focused Company
+### Creating CrossRoad Optics, a Civic-Focused Company
 
-Two members of the 2016-2017 SCOPE team have been accepted into the Summer Venture Program with Babson College. Through this program, these members will create Kross, a business venture utilizing the software created during SCOPE. In this capacity, our pilot ventures will continue with the guidance of Kross, as well as continued support for the software development.
+Two members of the 2016-2017 SCOPE team have been accepted into the Summer Venture Program with Babson College. Through this program, these members will create CrossRoad Optics, a business venture utilizing the software created during SCOPE. In this capacity, our pilot ventures will continue with the guidance of CrossRoad Optics, as well as continued support for the software development.
 
 ### Signing on Early Users
 
