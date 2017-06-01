@@ -5,7 +5,8 @@ permalink: /downloads/
 
 This software is intended for advanced users who have either worked directly with us or have been trained to use the system. If you'd like to use our software, but are unsure how, please contact us via the email at the bottom of the page.
 
-If you are going to attempt to use our software, it is free to use in its current state, however, this is subject to change in the future. If you would like to give it a try on your own, feel free to grab the application below. Please note, this software is only part of the processing platform, and as such, you will need to set up a private server with our cloud processing system.
+
+If you are going to attempt to use our software, it is free to use in its current state. However, this is subject to change in the future. Please note, this software is only part of the processing platform, and as such, you will need to set up a private server with our cloud processing system.
 
 # Software Downloads
 
@@ -17,13 +18,13 @@ If you are going to attempt to use our software, it is free to use in its curren
 
 You can check out all of our versions [here][7]
 
-[1]:{{ site.url }}/img/windows.png
+[1]:/img/windows.png
 {: width="120px"}
-[2]:{{ site.url }}/versions/
-[3]:{{ site.url }}/img/apple-logo.gif
+[2]:/versions/
+[3]:/img/apple-logo.gif
 {: width="120px"}
-[4]:{{ site.url }}/versions/SantosTrafficAnalysis.dmg
-[5]:{{ site.url }}/img/linux.png
+[4]:/versions/SantosTrafficAnalysis.dmg
+[5]:/img/linux.png
 {: width="120px"}
-[6]:{{ site.url }}/versions/
-[7]:{{ site.url }}/versions/
+[6]:/versions/
+[7]:/versions/
