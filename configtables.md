@@ -29,7 +29,7 @@ permalink: /guides/userguide/configtables
 </tr>
 <tr>
 <td>Maximum number of features. <br /> Starting value: 1000 <br /> Recommended range: 1000+</td>
-<td>The maximum number of features added at each frame. Note if that there are many moving objects in each frame, and those objects take up a large portion of the frame, this number may be higher. If the user find that not enough features are being tracked, they can increase this parameter.</td>
+<td>The maximum number of features added at each frame. Note if that there are many moving objects in each frame, and those objects take up a large portion of the frame, this number may be higher. If the user finds that not enough features are being tracked, they can increase this parameter.</td>
 </tr>
 <tr>
 <td>Number of displacements. <br /> Starting value: 10 <br /> Recommended range: 2-15</td>
@@ -37,11 +37,11 @@ permalink: /guides/userguide/configtables
 </tr>
 <tr>
 <td>Minimum feature displacement. <br /> Starting value: 0.0001</td>
-<td>Recommended range: 0.0001 to 0.1 | This parameter describes the minimum required displacement to keep a feature (in pixels). If the user has lots of slow-moving (or far-away) objects in their video and find that not enough features are being tracked, they can decrease this parameter. On the other hand, if too many non-road user features are being tracked (i.e., trees swaying in the wind) it may be useful for them to increase this parameter to capture the faster-moving features, which are more likely to belong to road users.</td>
+<td>Recommended range: 0.0001 to 0.1 | This parameter describes the minimum required displacement to keep a feature (in pixels). If the user has lots of slow-moving (or far-away) objects in their video and find that not enough features are being tracked, they can decrease this parameter. On the other hand, if too many non-road user features are being tracked (i.e., trees swaying in the wind) it may be useful to increase this parameter to capture faster-moving features, which are more likely to belong to road users.</td>
 </tr>
 <tr>
 <td>Maximum number of iterations. <br /> Starting value: 200 <br /> Recommended range: 10-1000</td>
-<td>This parameter changes how long after a feature continues to persist after the feature stops moving. If the video features many slow-moving objects, or objects that start and stop frequently, the user may want to increase this parameter.</td>
+<td>This parameter changes how long a feature continues to persist after it stops moving. If the video features many slow-moving objects, or objects that start and stop frequently, the user may want to increase this parameter.</td>
 </tr>
 <tr>
 <td>Minimum number of feature frames. <br /> Starting value: 15 <br /> Recommended range: 10-25</td>
