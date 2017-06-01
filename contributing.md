@@ -27,7 +27,7 @@ Please see our [__SantosInstallation__](https://github.com/santosfamilyfoundatio
 
 
 ## Software Architecture
-SantosPlatform is built from three components working in tandem:  TrafficIntelligence, SantosGUI, and SantosCloud.  These components each handle a part of the work of analyzing a user’s video -- from project creation, configuration, uploading, and analyzing.  The relations between these components are detailed below.
+SantosPlatform is built from three components working in tandem:  TrafficIntelligence, SantosGUI, and SantosCloud.  These components each handle a part of the work of analyzing a user’s video -- including project creation, configuration, uploading, and analyzing.  The relations between these components are detailed below.
 
 <center>
 <img src="/img/System_Diagram.jpg" width="100%">
