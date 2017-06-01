@@ -5,14 +5,12 @@ permalink: /about/
 
 # About
 
-The Santos Platform project was created by teams of engineering students at Olin College of Engineering. The [Santos Family Foundation](http://fdnweb.org/santos/) sponsored a three-year long senior capstone project. These three teams of seniors worked together with the Foundation with the goal of creating a technology to reduce traffic deaths.
+We at CrossRoad Optics are dedicated to creating a comprehensive automated traffic study in the hopes of providing a holistic understanding of intersections and an increased focus on traffic safety.
 
-These are the current seniors working on the project:
+CrossRoad Optics was created by former members of the Santos senior capstone project at Olin College of Engineering. The [Santos Family Foundation](http://fdnweb.org/santos/) sponsored the origin of this three-year long project and have continued to show support for the growing business.to reduce traffic deaths.
 
-- Deniz Celik
-- Ryan Louie
-- Jacob Riedel
-- Philip Seger
-- Sawyer Vaughan
+Meet the current CrossRoad Optics team:
 
-You can find information on this years team [here](http://www.olin.edu/collaborate/scope/projects/2016_17/Santos_Family_Foundation/). The information for the 2014-15 team is [here](http://www.olin.edu/collaborate/scope/projects/2014_15/Santos/), and the information for the 2015-16 team is [here](http://www.olin.edu/collaborate/scope/projects/2015_16/Santos/).
+![Loading...](/img/Scope_Expo-Jacob.jpg){: width="40%"} | ![Loading...](/img/Scope_Expo-Ryan.jpg){: width="40%"}
+Jacob Riedel | Ryan Louie
+CEO  | CTO 

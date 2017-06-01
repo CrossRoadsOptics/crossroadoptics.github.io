@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CrossRoad Optics
-email: santostrafficcloud@gmail.com
+email: support@crossroadoptics.com
 description: > # this means to ignore newlines until "baseurl:"
   Santos Platform is a software system that can be used to analyze
   footage of intersections to provide a report about the safety of that
