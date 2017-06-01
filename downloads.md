@@ -5,7 +5,7 @@ permalink: /downloads/
 
 This software is intended for advanced users who have either worked directly with us or have been trained to use the system. If you'd like to use our software, but are unsure how, please contact us via the email at the bottom of the page.
 
-If you are going to attempt o use our software, it is free to use in its current state, however, this is subject to change in the future. If you would like to give it a try on your own, feel free to grab the application below. Please note, this software is only part of the processing platform, and as such, you will need to set up a private server with our cloud processing system.
+If you are going to attempt to use our software, it is free to use in its current state, however, this is subject to change in the future. If you would like to give it a try on your own, feel free to grab the application below. Please note, this software is only part of the processing platform, and as such, you will need to set up a private server with our cloud processing system.
 
 # Software Downloads
 
