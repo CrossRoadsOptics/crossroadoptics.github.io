@@ -7,7 +7,7 @@ permalink: /about/
 
 We at CrossRoad Optics are dedicated to creating a comprehensive automated traffic study in the hopes of providing a holistic understanding of intersections and an increased focus on traffic safety.
 
-CrossRoad Optics was created by former members of the Santos senior capstone project at Olin College of Engineering. The [Santos Family Foundation](http://fdnweb.org/santos/) sponsored the origin of this three-year long project and have continued to show support for the growing business.to reduce traffic deaths.
+CrossRoad Optics was created by former members of the Santos senior capstone project at Olin College of Engineering. The [Santos Family Foundation](http://fdnweb.org/santos/) sponsored the origin of this three-year long project and have continued to show support for the growing business and its goal to reduce traffic deaths.
 
 Meet the current CrossRoad Optics team:
 
