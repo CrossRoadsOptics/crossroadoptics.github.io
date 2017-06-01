@@ -4,13 +4,13 @@ layout: page
 
 # Improving Transportation Safety through Data-Driven Technologies
 
-Many of us can think of an intersection in our towns and cities where traffic feels unsafe. The impact of unsafe roads is felt by every road user, from drivers, bikers, and pedestrians. In recent years, there are more than 40,000 traffic fatalities in the United States alone. Any one of those fatalities could happen at an intersection close to your home, areas we assume to be safe.
+Many of us can think of an intersection in our towns and cities where traffic feels unsafe. The impact of unsafe roads is felt by every road user, from drivers, to bikers and pedestrians. Last year alone, there were more than 40,000 traffic fatalities in the United States. Any one of those fatalities could happen at an intersection close to your home, areas we typically assume to be safe.
 
 There are many people already engaged in improving road infrastructure to create safer intersections. For them, quicker and more complete traffic studies can greatly expedite these changes, and increase the safety of the road for everyone.
 
 <center>
-<img src="img/advocacy-group.jpg" width="250">
-<img src="img/traffic-engineers.jpg" width="250">
+<img src="img/advocacy-group.jpg" width="33%">
+<img src="img/traffic-engineers.jpg" width="33%">
 </center>
 <br/>
 
