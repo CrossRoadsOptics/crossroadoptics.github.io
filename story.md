@@ -34,7 +34,3 @@ As our project comes to a close, we have looked for interested people who want t
 ### Creating CrossRoad Optics, a Civic-Focused Company
 
 Two members of the 2016-2017 SCOPE team have been accepted into the Summer Venture Program with Babson College. Through this program, these members will create CrossRoad Optics, a business venture utilizing the software created during SCOPE. In this capacity, our pilot ventures will continue with the guidance of CrossRoad Optics, as well as continued support for the software development.
-
-### Signing on Early Users
-
-The software is available for download and use, and we encourage anyone who is interested in running a study to go ahead and try. Contact us with any questions or comments.
