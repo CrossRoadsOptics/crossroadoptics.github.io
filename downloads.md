@@ -2,11 +2,10 @@
 layout: page
 permalink: /downloads/
 ---
+This software is intended for advanced users who have either worked directly with us or have been trained to use the system. If you would like to use our software, but are unsure how, please contact us via the email at the bottom of the page.
 
-This software is intended for advanced users who have either worked directly with us or have been trained to use the system. If you'd like to use our software, but are unsure how, please contact us via the email at the bottom of the page.
 
-
-If you are going to attempt to use our software, it is free to use in its current state. However, this is subject to change in the future. Please note, this software is only part of the processing platform, and as such, you will need to set up a private server with our cloud processing system.
+This version of our software is free to use. However, this is subject to change in the future. Please note, this software is only part of the processing platform, and as such, requires the set up  of a private server with our cloud processing system.
 
 # Software Downloads
 
