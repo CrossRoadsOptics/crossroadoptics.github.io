@@ -11,7 +11,7 @@ We are trying to reduce traffic accidents by improving infrastructure, specifica
 
 ## Protocol Rationale
 
-We are trying to reduce traffic accidents by improving infrastructure, specifically in small-town settings. Currently, the approach to intersection design is reactive as opposed to proactive. This means that metrics on intersection design are generally only collected after a concerned citizen has complained or after there have already been a significant number of accidents. A traffic camera system that includes hardware that is easy to install and maintain combined with computer vision software that can deliver metrics can assess safety aspects of a street or intersection. This tool would enable a proactive identification of traffic intersection safety problems before accidents happen and lives are lost.
+In order to dispel any public concerns over recording or analyzing public areas, this policy outlines our common practices for recording and handling raw video footage.
 
 ## Data Collection
 
