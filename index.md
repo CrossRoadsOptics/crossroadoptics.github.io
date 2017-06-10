@@ -15,7 +15,7 @@ Many people are engaged in improving road infrastructure to create safer interse
 <br/>
 
 
-CrossRoad Platform will make change possible. Our cloud-based analysis tool provides actionable safety metrics from collected video data to those who are working to improve traffic safety. Continue reading below to learn more about the software, or [contact us](mailto:{{ site.email }}) to begin understanding an intersection near you.
+The CrossRoad Platform will make change possible. Our cloud-based analysis tool provides actionable safety metrics from collected video data to those who are working to improve traffic safety. Continue reading below to learn more about the software, or [contact us](mailto:{{ site.email }}) to begin understanding an intersection near you.
 
 We have a number of **pilot programs** starting in the general Boston area. If you are interested in learning more,
 - [reach out](mailto:{{ site.email }})
