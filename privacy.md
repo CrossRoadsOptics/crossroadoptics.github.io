@@ -7,28 +7,26 @@ permalink: /privacy/
 
 ## Project Background
 
-We are trying to reduce traffic accidents by improving infrastructure, specifically in small-town settings. Currently, the approach to intersection design is reactive as opposed to proactive. This means that metrics on intersection design are generally only collected after a concerned citizen has complained or after there have already been a significant number of accidents. A traffic camera system that includes hardware that is easy to install and maintain combined with computer vision software that can deliver metrics can assess safety aspects of a street or intersection. This tool would enable a proactive identification of traffic intersection safety problems before accidents happen and lives are lost.
+We are working to reduce traffic accidents by providing a comprehensive understanding of traffic infrastructure. Due to the high cost and reliability of collected data, the current approach to intersection safety is reactive. Metrics on intersection safety are generally collected after citizens complain or when there is a history of a significant number of accidents. Our traffic camera system, is easy to install and maintain, combined with computer vision software, can deliver more reliable metrics assessing the safety aspects of a street or intersection. This tool enables a low cost proactive solution to evaluating traffic safety, preventing accidents and saving lives.
 
 ## Protocol Rationale
 
-In order to dispel any public concerns over recording or analyzing public areas, this policy outlines our common practices for recording and handling raw video footage.
+This policy outlines our common practices to dispel concerns regarding the recording and analysis of video collected in public areas.
 
 ## Data Collection
 
-Video will be recorded of public areas. There is no expectation of privacy in the chosen areas, as they are public intersections. As per the Massachusetts Phone Tap laws, no audio will be recorded. A maximum of 48 hours is recorded locally on the camera, and after that time, the video is overwritten.
+The video will be recorded of public areas. Therefore there is no expectation of privacy. Per the Massachusetts Phone Tap laws, no audio will be recorded. A maximum of 48 hours is recorded locally on the camera, and after that time, the video is overwritten.
 
 ## Data Management
 
-Data will be collected from our camera(s) and transferred to a private server on Olin campus. The videos are low-resolution to prevent any distinguishing features, such as licence plates from being recorded. Videos may be used in public presentations of our work on the TrafficGUI software.  In any such cases, any remaining identifying details will be obfuscated. Long term storage of data will be deleted by the end of the project, May 2017.
-
+Data will be collected from our camera(s) and transferred to a private server. The videos are low-resolution to prevent any distinguishing features from being recorded. Videos may be used in public presentations of our work on the TrafficGUI software.  In any such cases, any remaining identifying details will be obfuscated. Data will not be stored long term.
 ## Data Processing
 
-The software will track and store the trajectories of moving objects but the software will not store any information about the moving object, other than its classification as a pedestrian, car, or bicycle.
+The software will track and store the trajectories of moving objects but the software will not store any information about the moving object, other than its classification as a pedestrian, vehicle, or bicycle.
 
 ## Data Release
 
-We will not allow anybody outside of the team access to the video data, except in the following situations:
+Data will not be released except under the following situations:
 
-- We are required by law to cooperate with law enforcement.
-- In the event of a major criminal investigation that our footage could assist in, we would provide the relevant footage to the relevant law enforcement agencies.
-- Any other unforeseen circumstance in which the benefit to the public would far surpass any other concerns.
+- As required by law to cooperate with law enforcement.
+- Any other unforeseen circumstance in which the public benefit outweighs any other concerns.
