@@ -11,14 +11,15 @@ Many of us can think of an intersection in our town or city where traffic feels 
 Many people are engaged in improving road infrastructure to create safer intersections. Quicker and more complete traffic studies can greatly expedite these changes, and increase road safety for everyone.
 
 <center>
-<img src="img/advocacy-group.jpg" width="33%">
-<img src="img/traffic-engineers.jpg" width="33%">
+<img src="/img/advocacy-group.jpg" width="33%">
+<img src="/img/traffic-engineers.jpg" width="33%">
 </center>
 <br/>
 
 
 The CrossRoad Platform will make change possible. Our cloud-based analysis tool provides actionable safety metrics from collected video data to those who are working to improve traffic safety. Continue reading below to learn more about the software, or [contact us](mailto:{{ site.email }}) to begin understanding an intersection near you.
 
-We have a number of **pilot programs** starting in the general Boston area. If you are interested in learning more,
-- [Reach out](mailto:{{ site.email }})
-- Read about our work with [the Somerville Neighborways](/users/neighborways/) and where we are heading.
+<center>
+<img src="/img/somerville_neighborways_logo.png">
+<p>Read more about our work with the <a href="/users/neighborways/">Neighborways Project</a></p>
+</center>

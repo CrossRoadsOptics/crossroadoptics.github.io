@@ -4,12 +4,6 @@ permalink: /users/
 ---
 
 # Featured Users
-
-<center>
-<img src="/img/somerville_neighborways_logo.png">
-<p>Read more about our work with the <a href="/users/neighborways/">Neighborways Project</a></p>
-</center>
-
 <br/>
 
 <center>
