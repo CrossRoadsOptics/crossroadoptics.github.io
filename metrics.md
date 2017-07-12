@@ -11,13 +11,13 @@ Our Compute Vision software provides new insight for all customers through impac
 <img src="/img/metrics/road_user_icon_counts.jpg" width="70%">
 <p>Possible visual output of vehicle counts from a recorded video</p>
 </center>
-The bread and butter of any road data is counts. We measure and record the counts of objects through the intersection, classifying the objects on the road with Computer Vision. Our classifier is trained using Neural Networks to provide higher identification accuracy.
+The bread and butter of any traffic data is counts. We measure and record the counts of objects through the site, then classify the objects, all through Computer Vision. Our classifier is trained using Neural Networks to provide higher identification accuracy.
 
 <center>
 <img src="/img/metrics/velocityPDF.jpg" width="70%">
 <p>Speed distribution for a population of vehicles</p>
 </center>
-If the user is interested in speed data, our software delivers important information in easy-to-digest forms. In the above graph, we denote the 85th percentile speed, which is a crucial statistic used by traffic departments to determine road speed limits.
+If the customer is interested in speed data, our software delivers important information in easy-to-digest forms. In the above graph, we denote the 85th percentile speed, which is a crucial statistic used by traffic departments to determine road speed limits.
 
 ## Video Tracking
 <center>
