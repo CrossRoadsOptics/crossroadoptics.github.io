@@ -3,7 +3,7 @@ layout: page
 permalink: /metrics/
 ---
 
-# Metrics
+# The Power of Data
 Our Compute Vision software provides new insight for all customers through impactful data. Visualizations of routes sets our system apart, allowing customers to know exactly where cars, people and bikers tend to travel.
 
 ## Counts and Speeds  

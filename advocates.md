@@ -4,7 +4,7 @@ permalink: /advocates/
 ---
 
 
-# Improving Transportation Safety through Data-Driven Technologies
+# Improving Road Safety with Data-Driven Technology
 
 Many of us can think of an intersection in our town or city where traffic feels unsafe. The impact of an unsafe road is felt by every user, from drivers, to bikers and pedestrians. In 2016 alone, there were more than 40,000 traffic fatalities in the United States. Any one of those fatalities could happen at an intersection close to your home; areas we typically assume to be safe.
 
